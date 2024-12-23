@@ -1,4 +1,4 @@
-![Assembled 114mm f/3.95 Astrograph Telescope](@images/assembled.jpg)
+![Assembled 114mm f/3.95 Astrograph Telescope](images/assembled.jpg)
 
 # Squat 114mm f/3.95 Astrograph Telescope
 
